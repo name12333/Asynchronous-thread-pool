@@ -1,6 +1,6 @@
 {
     "commentTranslate.targetLanguage": "zh-CN",
-    "commentTranslate.source": "webxmsj.baidu-translate-baidu",
+    "commentTranslate.source": "Bing",
     "Codegeex.CompletionDelay": 0.5,
     "Codegeex.Chat.LanguagePreference": "中文",
     "Codegeex.Comment.LanguagePreference": "中文",
@@ -11,5 +11,6 @@
     "Codegeex.OnlyKeyControl": true,
     "Codegeex.CommitMessage.LanguagePreference": "中文",
     "Codegeex.RepoIndex": true,
-    "Codegeex.Privacy": false
+    "Codegeex.Privacy": false,
+    "commentTranslate.browse.mode": "inplace"
 }

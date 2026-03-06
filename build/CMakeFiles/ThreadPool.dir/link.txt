@@ -1,2 +1,2 @@
-/usr/bin/ar qc libThreadPool.a CMakeFiles/ThreadPool.dir/src/ThreadPool.cpp.o
-/usr/bin/ranlib libThreadPool.a
+"D:\Program Files\msys64\ucrt64\bin\ar.exe" qc libthreadpool.a CMakeFiles/threadpool.dir/src/ThreadPoolCore.cpp.obj
+"D:\Program Files\msys64\ucrt64\bin\ranlib.exe" libthreadpool.a

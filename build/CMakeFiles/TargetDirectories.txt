@@ -1,4 +1,3 @@
-/home/name12333_wsl/vscode_cpp_workspace/Asynchronous-thread-pool/build/CMakeFiles/ThreadPool.dir
-/home/name12333_wsl/vscode_cpp_workspace/Asynchronous-thread-pool/build/CMakeFiles/test_exe.dir
-/home/name12333_wsl/vscode_cpp_workspace/Asynchronous-thread-pool/build/CMakeFiles/edit_cache.dir
-/home/name12333_wsl/vscode_cpp_workspace/Asynchronous-thread-pool/build/CMakeFiles/rebuild_cache.dir
+E:/vs_workspace/Project_C_Code/Asynchronous-thread-pool/build/CMakeFiles/threadpool.dir
+E:/vs_workspace/Project_C_Code/Asynchronous-thread-pool/build/CMakeFiles/edit_cache.dir
+E:/vs_workspace/Project_C_Code/Asynchronous-thread-pool/build/CMakeFiles/rebuild_cache.dir
